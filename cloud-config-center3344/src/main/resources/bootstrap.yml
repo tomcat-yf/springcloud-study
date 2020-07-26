@@ -14,12 +14,12 @@ spring:
             - spring-cloud-config
       ####读取分支
       label: master
-#rabbitmq相关配置
-rabbitmq:
-  host: localhost
-  port: 5672
-  username: guest
-  password: guest
+  #rabbitmq相关配置
+  rabbitmq:
+    host: 47.105.180.77
+    port: 5672
+    username: guest
+    password: guest
 
 #服务注册到eureka地址
 eureka:
