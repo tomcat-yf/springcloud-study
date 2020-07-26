@@ -1,0 +1,4 @@
+D:\cloudpj\cloud-consumer-feign-hystrix-order80\src\main\java\com\guigu\springcloud\HystrixOrderMain80.java
+D:\cloudpj\cloud-consumer-feign-hystrix-order80\src\main\java\com\guigu\springcloud\service\PaymentFallbackService.java
+D:\cloudpj\cloud-consumer-feign-hystrix-order80\src\main\java\com\guigu\springcloud\controller\OrderHystirxController.java
+D:\cloudpj\cloud-consumer-feign-hystrix-order80\src\main\java\com\guigu\springcloud\service\PaymentHystrixService.java
