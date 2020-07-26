@@ -1,0 +1,17 @@
+/cloud-api-common/target/maven-status/maven-compiler-plugin/compile/default-compile/
+/cloud-config-center3344/target/
+/cloud-config-clinet3355/target/classes/
+/cloud-consumer-feign-hystrix-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/
+/cloud-consumer-feign-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/
+/cloud-consumer-hystrix-dashboard9001/target/maven-status/maven-compiler-plugin/compile/default-compile/
+/cloud-customer-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/
+/cloud-customerconsul-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/
+/cloud-customerzk-order80/target/
+/cloud-eureka-server7001/target/maven-status/maven-compiler-plugin/compile/default-compile/
+/cloud-eureka-server7002/target/maven-status/maven-compiler-plugin/compile/default-compile/
+/cloud-getway-getway9527/target/maven-status/maven-compiler-plugin/compile/default-compile/
+/cloud-provider-hystrix-payment8001/target/maven-status/maven-compiler-plugin/compile/default-compile/
+/cloud-provider-payment8001/target/maven-status/maven-compiler-plugin/compile/default-compile/
+/cloud-provider-payment8002/target/maven-status/maven-compiler-plugin/compile/default-compile/
+/cloud-provider-payment8004/target/maven-status/maven-compiler-plugin/compile/default-compile/
+/cloud-providerconsul-payment8006/target/maven-status/maven-compiler-plugin/compile/default-compile/
