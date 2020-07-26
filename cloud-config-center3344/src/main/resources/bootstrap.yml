@@ -34,4 +34,6 @@ management:
       exposure:
         include: 'bus-refresh'
 
-# curl -X POST "http://localhost:3344/actuator/bus-refresh"
+#  全部通知curl -X POST "http://localhost:3344/actuator/bus-refresh"
+#  顶点通知curl -X POST "http://localhost:3344/actuator/bus-refresh/{destination}"
+#                      http://localhost:3344/actuator/bus-refresh/config-client:3355
