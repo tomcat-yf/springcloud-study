@@ -1,2 +1,2 @@
-# guigu-cloud-study
+# cloud-study
 just an study project
